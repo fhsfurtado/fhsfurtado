@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsfurtado&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 ### Sou:
-* Entusiasta Linux; [Penguin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg>)
+* Entusiasta Linux; [Penguin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
 * Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB);
 * Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB);
 ### Profissional:
