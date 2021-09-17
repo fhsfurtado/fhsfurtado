@@ -187,5 +187,9 @@
     </ul>
 </div>
 <div width="100%">
+            <center>
+                <a href="https://www.linkedin.com/in/fhsfurtado/" target="_blank">
+                    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="35%" target="_blank">
+                </a> </center>
     <img src="img/me.gif" width="100%" alt="Me Coding">
 </div>
