@@ -40,30 +40,34 @@
     <ul>
         <li>
             <h4>Técnico em Computação @ Servi-San <b>Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:</b></h4>
-            <li>
-                <h6>Help Desk;</h6>
-            </li>
-            <li>
-                <h6>Monitoramento de Redes;</h6>
-            </li>
-            <li>
-                <h6>Suporte Técnico remoto e presencial a servidores, magistrados e advogados(as) de todo o Brasil;</h6>
-            </li>
-            <li>
-                <h6>Analista de suporte e implantação do sistema PJe.</h6>
-            </li>
+            <ol>
+                <li>
+                    <h6>Help Desk;</h6>
+                </li>
+                <li>
+                    <h6>Monitoramento de Redes;</h6>
+                </li>
+                <li>
+                    <h6>Suporte Técnico remoto e presencial a servidores, magistrados e advogados(as) de todo o Brasil;</h6>
+                </li>
+                <li>
+                    <h6>Analista de suporte e implantação do sistema PJe.</h6>
+                </li>
+            </ol>
         </li>
         <li>
             <h4>Técnico de Informática @ Grupo Logos</h4>
-            <li>
-                <h6>Suporte ao usuário</h6>
-            </li>
-            <li>
-                <h6>Manutenção de PCs e Servidores</h6>
-            </li>
-            <li>
-                <h6>Analista de requisitos</h6>
-            </li>
+            <ol>
+                <li>
+                    <h6>Suporte ao usuário</h6>
+                </li>
+                <li>
+                    <h6>Manutenção de PCs e Servidores</h6>
+                </li>
+                <li>
+                    <h6>Analista de requisitos</h6>
+                </li>
+            </ol>
         </li>
         <li>
             <h4>Desenvolvedor Web Jr - PHP @ Grupo Logos <b>promovido!</b></h4>
