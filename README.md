@@ -39,7 +39,7 @@
     <h2>Profissional:</h2>
     <ul>
         <li>
-            <h4>Técnico em Computação @ Servi-San</h4> - <h5><b>Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:</b></h5>
+            <h4>Técnico em Computação @ Servi-San <b>Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:</b></h4>
             <li>
                 <h6>Help Desk;</h6>
             </li>
