@@ -1,5 +1,5 @@
-# Olá, é um prazer tê-lo aqui!
-## Sou o Fabio Furtado, Desenvolvedor Web Jr, com ênfase nas tecnologias:
+<h1>Olá, é um prazer tê-lo aqui!</h1></hr>
+<h2>Sou o Fabio Furtado, Desenvolvedor Web Jr, com ênfase nas tecnologias:</h2></hr>
   <img align="center" alt="fhsf-HTML" title= "HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fhsf-BS" title= "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="40" src="https://cdn.onlinewebfonts.com/svg/img_238869.png">
