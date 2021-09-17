@@ -3,7 +3,7 @@
 <div>
   <img align="center" alt="fhsf-HTML" title= "HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fhsf-BS" title= "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="40" src="https://cdn.onlinewebfonts.com/svg/img_238869.png">
+  <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="40" src="https://getmdl.io/assets/favicon.png">
   <img align="center" alt="fhsf-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fhsf-JS"  title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> + 
   <img align="center" alt="fhsf-JQuery"  title="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
