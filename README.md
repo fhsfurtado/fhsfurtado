@@ -50,7 +50,7 @@
                 <h6>Suporte Técnico remoto e presencial a servidores, magistrados e advogados(as) de todo o Brasil;</h6>
             </li>
             <li>
-                h6>Analista de suporte e implantação do sistema PJe.</h6>
+                <h6>Analista de suporte e implantação do sistema PJe.</h6>
             </li>
         </li>
         <li>
