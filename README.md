@@ -9,10 +9,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhsfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsfurtado&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
-### Sou:
-* Entusiasta Linux; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" heigth="25"/>
-* Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25"/>
-* Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25""/>
+<div>
+  <h2>Sou:</h2>
+  <ul>
+    <li>
+      Entusiasta Linux; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" heigth="25"/>
+    </li>
+    <li>
+      Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25"/>
+    </li>
+    <li>
+      Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25""/>
+    </li>
+  </ul>
+</div>
 ### Profissional:
 * Técnico em Computação @ Servi-San
 ##### Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:
