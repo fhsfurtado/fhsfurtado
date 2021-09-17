@@ -1,7 +1,7 @@
 <h1>Olá, é um prazer tê-lo aqui!</h1></hr>
 <h2>Sou o Fabio Furtado, Desenvolvedor Web Jr, com ênfase nas tecnologias:</h2></hr>
 <div>
-    <table id="table_min" width="100%">
+    <table id="table_min" width="360em">
         <tbody>
             <tr>
                 <td>
