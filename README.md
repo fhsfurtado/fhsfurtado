@@ -52,7 +52,7 @@
                 <td>
                     <img src="img/gold.png" width="15" height="15" alt="star-ok">
                     <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/half.png" width="15" height="15" alt="star-ok">
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                 </td>
@@ -62,7 +62,7 @@
                 <td>
                     <img src="img/gold.png" width="15" height="15" alt="star-ok">
                     <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
+                    <img src="img/half.png" width="15" height="15" alt="star-ok">
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                 </td>
@@ -72,7 +72,7 @@
                 <td>
                     <img src="img/gold.png" width="15" height="15" alt="star-ok">
                     <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
+                    <img src="img/half.png" width="15" height="15" alt="star-ok">
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                 </td>
