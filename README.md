@@ -8,21 +8,21 @@
                     <img align="center" alt="fhsf-HTML" title= "HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
                 </td>
                 <td>
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
                 <td>
                     <img align="center" alt="fhsf-BS" title= "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
                 </td>
                 <td>
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
             </tr>
             <tr>
@@ -30,21 +30,21 @@
                     <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="30" src="https://getmdl.io/assets/favicon.png">
                 </td>
                 <td>
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
                 <td>
                     <img align="center" alt="fhsf-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
                 </td>
                 <td>
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
             </tr>
             <tr>
@@ -52,21 +52,21 @@
                     <img align="center" alt="fhsf-JS"  title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 </td>
                 <td>
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/half.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/half.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
                 <td>
                     <img align="center" alt="fhsf-JQuery"  title="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
                 </td>
                 <td>
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/half.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/half.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
             </tr>
             <tr>
@@ -74,21 +74,21 @@
                     <img align="center" alt="fhsf-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
                 </td>
                 <td>
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/half.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/half.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
                 <td>
                     <img align="center" alt="fhsf-MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
                 </td>
                 <td>
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
-                    <img src="img/half.png" width="15" height="15" alt="star-ok">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
-                    <img src="img/gray.png" width="15" height="15" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/half.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
             </tr>
         </tbody>
@@ -117,14 +117,15 @@
 </div>
 <h2>E utilizo como ferramentas de apoio ao desenvolvimento:</h2></hr>
 <div>
-  <img align="center" alt="fhsf-Linux" title="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="fhsf-VSCode" title="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="fhsf-Linux" title="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="fhsf-VSCode" title="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </div>
 <h2>Insights:</h2></hr>
 <div>
   <a href="https://github.com/fhsfurtado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhsfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsfurtado&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsfurtado&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=fhsfurtado&theme=dracula"/></a>
   <center>
     <a href="https://www.linkedin.com/in/fhsfurtado/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
