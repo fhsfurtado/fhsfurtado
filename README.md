@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
     </a>
     <a href = "mailto:fhs.furtado@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-%233335E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </div>
 <div>
