@@ -1,5 +1,20 @@
-<h1>Olá, é um prazer tê-lo aqui!</h1></hr>
-<h2>Sou o Fabio Furtado, Desenvolvedor Web Jr, com ênfase nas tecnologias:</h2></hr>
+<div>
+    <h1>Olá, é um prazer tê-lo aqui!</h1></hr>
+    <h2>Sou o Fabio Furtado, 29 anos, Desenvolvedor Web Jr, fã de animais e de videogames</h2></hr>
+</div>
+<div>
+    <h2>Minhas redes:</h2>
+    <a href="https://www.linkedin.com/in/fhsfurtado/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://instagram.com/_mynameisfabio" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="https://twitter.com/fhsfurtado" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+    </a>
+    
+</div>
 <div>
     <table id="table_min" width="360em">
         <tbody>
@@ -126,11 +141,6 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhsfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsfurtado&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-  <center>
-    <a href="https://www.linkedin.com/in/fhsfurtado/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-  </center>
 </div>
 <div>
   <h2>Sou:</h2>
