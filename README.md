@@ -186,3 +186,6 @@
         </li>
     </ul>
 </div>
+<div width="100%">
+    <img src="img/me.gif" width="100%" alt="Me Coding">
+</div>
