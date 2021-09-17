@@ -95,7 +95,7 @@
     <ul>
         <li>
             <img align="center" alt="fhsf-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-            <img src="img/gold.png" width="15" height="15" alt="star-ok">
+            <img src="img/half.png" width="15" height="15" alt="star-half">
             <img src="img/gray.png" width="15" height="15" alt="star-no">
             <img src="img/gray.png" width="15" height="15" alt="star-no">
             <img src="img/gray.png" width="15" height="15" alt="star-no">
@@ -103,7 +103,7 @@
         </li>
         <li>
             <img align="center" alt="fhsf-Flutter" title="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-            <img src="img/gold.png" width="15" height="15" alt="star-ok">
+            <img src="img/half.png" width="15" height="15" alt="star-half">
             <img src="img/gray.png" width="15" height="15" alt="star-no">
             <img src="img/gray.png" width="15" height="15" alt="star-no">
             <img src="img/gray.png" width="15" height="15" alt="star-no">
