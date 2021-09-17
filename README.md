@@ -10,9 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsfurtado&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 ### Sou:
-* Entusiasta Linux; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" size="50x50"/>
-* Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="50" heigth="50"/>
-* Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="50" heigth="50""/>
+* Entusiasta Linux; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" heigth="25"/>
+* Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25"/>
+* Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25""/>
 ### Profissional:
 * Técnico em Computação @ Servi-San
 ##### Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:
