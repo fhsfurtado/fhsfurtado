@@ -1,8 +1,8 @@
 # Olá, é um prazer tê-lo aqui!
 ## Sou o Fabio Furtado, Desenvolvedor Web Jr, com ênfase nas tecnologias:
 <div>
-  <img align="center" alt="fhsf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fhsf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fhsf-HTML" title= "HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fhsf-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
   <a href="https://github.com/fhsfurtado">
@@ -10,9 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsfurtado&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 ### Sou:
-* Entusiasta Linux; [Penguin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
-* Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB);
-* Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB);
+* Entusiasta Linux; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" size="50x50"/>
+* Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" size="50x50"/>
+* Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" size="50x50"/>
 ### Profissional:
 * Técnico em Computação @ Servi-San
 ##### Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:
