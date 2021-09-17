@@ -1,5 +1,6 @@
 <h1>Olá, é um prazer tê-lo aqui!</h1></hr>
 <h2>Sou o Fabio Furtado, Desenvolvedor Web Jr, com ênfase nas tecnologias:</h2></hr>
+<div>
   <img align="center" alt="fhsf-HTML" title= "HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fhsf-BS" title= "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="40" src="https://cdn.onlinewebfonts.com/svg/img_238869.png">
@@ -8,11 +9,13 @@
   <img align="center" alt="fhsf-JQuery"  title="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
   <img align="center" alt="fhsf-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="fhsf-MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-## E utilizo como ferramentas de apoio ao desenvolvimento:
+</div>
+<h2>E utilizo como ferramentas de apoio ao desenvolvimento:</h2></hr>
 <div>
   <img align="center" alt="fhsf-Linux" title="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="fhsf-VSCode" title="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </div>
+<h2>Insights:</h2></hr>
 <div>
   <a href="https://github.com/fhsfurtado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhsfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
