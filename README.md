@@ -140,7 +140,8 @@
     <h2>Profissional:</h2>
     <ul>
         <li>
-            <h4>Técnico em Computação @ Servi-San <b>(Terceirizado ao Tribunal de Justiça do Maranhão)</b>, onde efetuei:</h4>
+            <h4>Técnico em Computação @ Servi-San <small> - (Mar/2014 ~ Fev/2016)</small> <b>(Terceirizado ao Tribunal de Justiça do Maranhão)</b></h4>
+            
             <ul>
                 <li>
                     <h6>Help Desk;</h6>
@@ -157,7 +158,7 @@
             </ul>
         </li>
         <li>
-            <h4>Técnico de Informática @ Grupo Logos</h4>
+            <h4>Técnico de Informática @ Grupo Logos <small> - (Out/2016 ~ Dez/2020)</small></h4>
             <ul>
                 <li>
                     <h6>Suporte ao usuário;</h6>
@@ -171,7 +172,7 @@
             </ul>
         </li>
         <li>
-            <h4>Desenvolvedor Web Jr - PHP @ Grupo Logos <b>promovido!</b></h4>
+            <h4>Desenvolvedor Web Jr - PHP @ Grupo Logos <b>(promovido!)</b> <small> - (Jan/2021 ~ Atualmente)</small></h4>
             <ul>
                 <li>
                     Acompanhamento nos projetos de inovação;
