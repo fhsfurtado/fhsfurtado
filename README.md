@@ -23,35 +23,50 @@
 </div>
 <div>
   <h2>Sou:</h2>
-  &nbsp;&nbsp;&nbsp;&nbsp;<h4>Entusiasta Linux; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" heigth="25"/></h4>
-  &nbsp;&nbsp;&nbsp;&nbsp;<h4>Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25"/></h4>
-  &nbsp;&nbsp;&nbsp;&nbsp;<h4>Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25""/></h4>
+  <ul>
+      <li>
+        <h4>Entusiasta Linux; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" heigth="25"/></h4>
+      </li>
+      <li>
+        <h4>Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25"/></h4>
+      </li>
+      <li>
+        <h4>Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25""/></h4>
+      </li>
+  </ul>
 </div>
 <div>
     <h2>Profissional:</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;<h4>Técnico em Computação @ Servi-San</h4> - <h5><b>Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:</b></h5>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h6>Help Desk;</h6>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h6>Monitoramento de Redes;</h6>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h6>Suporte Técnico remoto e presencial a servidores, magistrados e advogados(as) de todo o Brasil;</h6>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h6>Analista de suporte e implantação do sistema PJe.</h6>
-    &nbsp;&nbsp;&nbsp;&nbsp;<h4>Técnico de Informática @ Grupo Logos</h4>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h6>Suporte ao usuário</h6>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h6>Manutenção de PCs e Servidores</h6>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h6>Analista de requisitos</h6>
-    &nbsp;&nbsp;&nbsp;&nbsp;<h4>Desenvolvedor Web Jr - PHP @ Grupo Logos <b>promovido!</b></h4>
+    <ul>
+        <li>
+            <h4>Técnico em Computação @ Servi-San</h4> - <h5><b>Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:</b></h5>
+            <li>
+                <h6>Help Desk;</h6>
+            </li>
+            <li>
+                <h6>Monitoramento de Redes;</h6>
+            </li>
+            <li>
+                <h6>Suporte Técnico remoto e presencial a servidores, magistrados e advogados(as) de todo o Brasil;</h6>
+            </li>
+            <li>
+                h6>Analista de suporte e implantação do sistema PJe.</h6>
+            </li>
+        </li>
+        <li>
+            <h4>Técnico de Informática @ Grupo Logos</h4>
+            <li>
+                <h6>Suporte ao usuário</h6>
+            </li>
+            <li>
+                <h6>Manutenção de PCs e Servidores</h6>
+            </li>
+            <li>
+                <h6>Analista de requisitos</h6>
+            </li>
+        </li>
+        <li>
+            <h4>Desenvolvedor Web Jr - PHP @ Grupo Logos <b>promovido!</b></h4>
+        </li>
+    </ul>
 </div>
-
-<!--
-**fhsfurtado/fhsfurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
