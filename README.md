@@ -1,14 +1,94 @@
 <h1>Olá, é um prazer tê-lo aqui!</h1></hr>
 <h2>Sou o Fabio Furtado, Desenvolvedor Web Jr, com ênfase nas tecnologias:</h2></hr>
 <div>
-  <img align="center" alt="fhsf-HTML" title= "HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fhsf-BS" title= "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="30" src="https://getmdl.io/assets/favicon.png">
-  <img align="center" alt="fhsf-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="fhsf-JS"  title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> + 
-  <img align="center" alt="fhsf-JQuery"  title="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
-  <img align="center" alt="fhsf-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="fhsf-MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <table width="100%">
+        <tbody>
+            <tr>
+                <td>
+                    <img align="center" alt="fhsf-HTML" title= "HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+                </td>
+                <td>
+                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
+                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
+                    <img src="img/gold.png" width="15" height="15" alt="star-ok">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                </td>
+                <td>
+                    <img align="center" alt="fhsf-BS" title= "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+                </td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                </td>
+                <td>
+                    <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="30" src="https://getmdl.io/assets/favicon.png">
+                </td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                </td>
+                <td>
+                    <img align="center" alt="fhsf-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+                </td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img align="center" alt="fhsf-JS"  title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+                </td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                </td>
+                <td>
+                    <img align="center" alt="fhsf-JQuery"  title="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
+                </td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                </td>
+                <td>
+                    <img align="center" alt="fhsf-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+                </td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                </td>
+                <td>
+                    <img align="center" alt="fhsf-MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+                </td>
+                <td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="15" height="15" alt="star-ok">
+                    <img src="https://th.bing.com/th/id/R.384eda72086ce7ea57f102014835525d?rik=ZgYOm8mHTn%2fAag&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fxcg%2f6Lo%2fxcg6LoEoi.png&ehk=XBmM68OUztAxOrKlahPZSm7WKjbgEb1MpCn6B%2bmFg1w%3d&risl=&pid=ImgRaw&r=0" width="15" height="15" alt="star-ok">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                    <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 <h2>E estou buscando aprender:</h2>
 <div>
@@ -16,18 +96,18 @@
         <li>
             <img align="center" alt="fhsf-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="10" height="10" alt="star-ok">
-            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
-            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
-            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
-            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="15" height="15" alt="star-no">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="15" height="15" alt="star-no">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="15" height="15" alt="star-no">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="15" height="15" alt="star-no">
         </li>
         <li>
             <img align="center" alt="fhsf-Flutter" title="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_Star.svg/768px-Gold_Star.svg.png" width="10" height="10" alt="star-ok">
-            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
-            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
-            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
-            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="10" height="10" alt="star-no">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="15" height="15" alt="star-no">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="15" height="15" alt="star-no">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="15" height="15" alt="star-no">
+            <img src="https://purepng.com/public/uploads/large/purepng.com-grey-starstargeometricallydecagonconcavestardomclipartblackgrey-1421526502793oblca.png" width="15" height="15" alt="star-no">
         </li>
     </ul>
 </div>
