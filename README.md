@@ -40,7 +40,7 @@
     <ul>
         <li>
             <h4>Técnico em Computação @ Servi-San <b>Terceirizado ao Tribunal de Justiça do Maranhão, onde efetuei:</b></h4>
-            <ol>
+            <ul>
                 <li>
                     <h6>Help Desk;</h6>
                 </li>
@@ -53,11 +53,11 @@
                 <li>
                     <h6>Analista de suporte e implantação do sistema PJe.</h6>
                 </li>
-            </ol>
+            </ul>
         </li>
         <li>
             <h4>Técnico de Informática @ Grupo Logos</h4>
-            <ol>
+            <ul>
                 <li>
                     <h6>Suporte ao usuário</h6>
                 </li>
@@ -67,7 +67,7 @@
                 <li>
                     <h6>Analista de requisitos</h6>
                 </li>
-            </ol>
+            </ul>
         </li>
         <li>
             <h4>Desenvolvedor Web Jr - PHP @ Grupo Logos <b>promovido!</b></h4>
