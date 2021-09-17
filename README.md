@@ -141,7 +141,6 @@
     <ul>
         <li>
             <h4>Técnico em Computação @ Servi-San <small> - (Mar/2014 ~ Fev/2016)</small> <b>(Terceirizado ao Tribunal de Justiça do Maranhão)</b></h4>
-            
             <ul>
                 <li>
                     <h6>Help Desk;</h6>
@@ -188,9 +187,10 @@
     </ul>
 </div>
 <div width="100%">
-            <center>
-                <a href="https://www.linkedin.com/in/fhsfurtado/" target="_blank">
-                    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-                </a> </center>
+    <center>
+        <a href="https://www.linkedin.com/in/fhsfurtado/" target="_blank">
+            <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        </a>
+    </center>
     <img src="img/me.gif" width="100%" alt="Me Coding">
 </div>
