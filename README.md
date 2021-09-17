@@ -24,6 +24,8 @@
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="30" src="https://getmdl.io/assets/favicon.png">
                 </td>
@@ -66,6 +68,8 @@
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                     <img src="img/gray.png" width="15" height="15" alt="star-no">
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <img align="center" alt="fhsf-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
                 </td>
