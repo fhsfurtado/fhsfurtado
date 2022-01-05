@@ -1,6 +1,6 @@
 <div>
     <h1>Olá, é um prazer tê-lo aqui!</h1></hr>
-    <h2>Sou o Fabio Furtado, 29 anos, Desenvolvedor Web Jr, fã de animais e de videogames</h2></hr>
+    <h2>Sou o Fabio Furtado, 30 anos, Desenvolvedor Web Jr, fã de animais e de videogames</h2></hr>
 </div>
 <div>
     <h2>Minhas redes:</h2>
