@@ -155,7 +155,7 @@
         <h4>Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25"/></h4>
       </li>
       <li>
-        <h4>Pós graduando em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25""/></h4>
+        <h4>Especialista em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25""/></h4>
       </li>
   </ul>
 </div>
