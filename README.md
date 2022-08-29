@@ -194,7 +194,7 @@
             </ul>
         </li>
         <li>
-            <h4>Desenvolvedor Web Jr - PHP @ Grupo Logos <b>(promovido!)</b> <small> - (Jan/2021 ~ Atualmente)</small></h4>
+            <h4>Desenvolvedor Web Jr - PHP @ Grupo Logos <b>(promovido!)</b> <small> - (Jan/2021 ~ Jul/2022)</small></h4>
             <ul>
                 <li>
                     Acompanhamento nos projetos de inovação;
@@ -204,6 +204,20 @@
                 </li>
                 <li>
                     Suporte N2 E N3 aos sistemas internos da empresa;
+                </li>
+            </ul>
+        </li>
+        <li>
+            <h4>Desenvolvedor Web Jr - PHP @ Just Digital <small> - (Jul/2022 ~ Atualmente)</small></h4>
+            <ul>
+                <li>
+                    Análise e desenvolvimento de soluções;
+                </li>
+                <li>
+                    Desenvolvimento de sistemas web fullstack;
+                </li>
+                <li>
+                    Criação de inovações;
                 </li>
             </ul>
         </li>
