@@ -45,7 +45,7 @@
             </tr>
             <tr>
                 <td>
-                    <img align="center" alt="fhsf-MDL" title= "CMS Drupal" height="30" width="30" src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg">
+                    <img align="center" alt="fhsf-MDL" title= "CMS Drupal" height="30" width="30" src="https://www.drupal.org/files/EL_blue_RGB%281%29.png">
                 </td>
                 <td>
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
