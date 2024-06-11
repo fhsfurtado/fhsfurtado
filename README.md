@@ -29,8 +29,8 @@
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/half.png" width="10" height="10" alt="star-ok">
                 </td>
                 <td>
                     <img align="center" alt="fhsf-BS" title= "Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
@@ -45,13 +45,13 @@
             </tr>
             <tr>
                 <td>
-                    <img align="center" alt="fhsf-MDL" title= "Material Design Lite" height="30" width="30" src="https://getmdl.io/assets/favicon.png">
+                    <img align="center" alt="fhsf-MDL" title= "CMS Drupal" height="30" width="30" src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg">
                 </td>
                 <td>
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/half.png" width="10" height="10" alt="star-ok">
                     <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
                 <td>
@@ -60,8 +60,8 @@
                 <td>
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/half.png" width="10" height="10" alt="star-ok">
                     <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
             </tr>
@@ -72,8 +72,8 @@
                 <td>
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/half.png" width="10" height="10" alt="star-ok">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                     <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
                 <td>
@@ -82,8 +82,8 @@
                 <td>
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/half.png" width="10" height="10" alt="star-ok">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                     <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
             </tr>
@@ -94,8 +94,8 @@
                 <td>
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
-                    <img src="img/half.png" width="10" height="10" alt="star-ok">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
                 <td>
@@ -104,8 +104,8 @@
                 <td>
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/gold.png" width="10" height="10" alt="star-ok">
+                    <img src="img/gold.png" width="10" height="10" alt="star-ok">
                     <img src="img/half.png" width="10" height="10" alt="star-ok">
-                    <img src="img/gray.png" width="10" height="10" alt="star-no">
                     <img src="img/gray.png" width="10" height="10" alt="star-no">
                 </td>
             </tr>
@@ -155,7 +155,7 @@
         <h4>Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25"/></h4>
       </li>
       <li>
-        <h4>Especialista em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25""/></h4>
+        <h4>Especialista em Ciência de Dados pelo Centro Universitário Do Bosco (UNDB); <img src="https://www.pngkey.com/png/full/131-1311026_school-icon-png.png" width="25" heigth="25"/></h4>
       </li>
   </ul>
 </div>
