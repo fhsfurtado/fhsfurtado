@@ -1,6 +1,6 @@
 <div>
     <h1>Olá, é um prazer tê-lo aqui!</h1></hr>
-    <h2>Sou o Fabio Furtado, 30 anos, Desenvolvedor Web Jr, fã de animais e de videogames</h2></hr>
+    <h2>Sou o Fabio Furtado, 32 anos, Desenvolvedor Web Jr, fã de animais e de videogames</h2></hr>
 </div>
 <div>
     <h2>Minhas redes:</h2>
@@ -208,7 +208,7 @@
             </ul>
         </li>
         <li>
-            <h4>Desenvolvedor Web Jr - PHP @ Just Digital <small> - (Jul/2022 ~ Atualmente)</small></h4>
+            <h4>Desenvolvedor Web  - PHP @ Grupo Squadra <small> - (Jul/2022 ~ Atualmente)</small></h4>
             <ul>
                 <li>
                     Análise e desenvolvimento de soluções;
